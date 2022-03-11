@@ -1,4 +1,4 @@
-# Hi there, I'm Ngoc Bao - aka [Bgstatic][website] <img width="30px" src="https://letyouknowme.herokuapp.com" />
+# Hi there, I'm ![Ngoc Bao](https://letyouknowme.herokuapp.com/)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
